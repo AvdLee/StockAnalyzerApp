@@ -15,7 +15,7 @@ h1#page-title {
 	font-family: FenwayPark;
 }
 h1#page-title a.blog-logo {
-	background: url(Assets/RocketSim-logo.svg) no-repeat left;
+	background: url(Assets/StockAnalyzer-logo.svg) no-repeat left;
     display: block;
     text-indent: -9999px;
     background-size: contain;
@@ -30,11 +30,14 @@ a {
     margin-top: 6rem;
     margin-bottom: 2rem;
 }
+#header-container .left-column {
+	margin: auto 0;
+}
 #header-container h2 {
 	font-size: 2rem;
 }
 #header-container img {
-	max-width: 250px;
+	max-width: 747px;
     margin: 0 auto;
     display: block;
 }
