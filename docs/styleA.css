@@ -352,6 +352,12 @@ video {
 	#header-container {
 		margin-top: 1rem;
 	}
+
+	#header-container img {
+		max-width: 100%;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+	}
     .section-headline {
     	font-size: 3rem;
     }
