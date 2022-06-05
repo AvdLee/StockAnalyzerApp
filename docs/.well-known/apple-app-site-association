@@ -7,5 +7,10 @@
                 "comment": "Matches any URL whose path starts with /stock/"
             }]
         }]
+    },
+    "appclips": {
+        "apps": [
+            "4QMDKC8VLJ.com.swiftlee.StockAnalyzer.Clip"
+        ]
     }
 }
