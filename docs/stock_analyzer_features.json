@@ -75,6 +75,6 @@
     "status" : "Implemented",
     "id" : "13",
     "title" : "Stock Price Graph",
-    "isFinished" : false
+    "isFinished" : true
   }
 ]
