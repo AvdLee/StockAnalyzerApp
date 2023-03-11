@@ -1,0 +1,80 @@
+[
+  {
+    "status" : "Planned",
+    "id" : "1",
+    "title" : "Watchlist Performance Widgets",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "2",
+    "title" : "iPad App",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "3",
+    "title" : "Mac App",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "4",
+    "title" : "Notification for New Earnings Report",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "5",
+    "title" : "Price Notifications",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "6",
+    "title" : "Show Related Stocks \/ Competition",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "7",
+    "title" : "Allow creating multiple lists besides the main watchlist",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "8",
+    "title" : "Allow comparing stocks side by side with their scores",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "9",
+    "title" : "Debt\/EBITDA Ratio",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "10",
+    "title" : "Add Return on Investment Capital Ratio (ROIC)",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "11",
+    "title" : "Allow selecting currency",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "12",
+    "title" : "Watch App",
+    "isFinished" : false
+  },
+  {
+    "status" : "Implemented",
+    "id" : "13",
+    "title" : "Stock Price Graph",
+    "isFinished" : false
+  }
+]
