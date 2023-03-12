@@ -31,7 +31,11 @@ let features: [Feature] = [
     .init(id: "10", title: "Add Return on Investment Capital Ratio (ROIC)", status: .planned),
     .init(id: "11", title: "Allow selecting currency", status: .planned),
     .init(id: "12", title: "Watch App", status: .planned),
-    .init(id: "13", title: "Stock Price Graph", status: .implemented)
+    .init(id: "13", title: "Stock Price Graph", status: .implemented),
+    .init(id: "14", title: "Customize Criteria Order", status: .planned),
+    .init(id: "15", title: "Mark criteria as favorite and show on top of detail page", status: .planned),
+    .init(id: "16", title: "Price Notifications", status: .planned),
+    .init(id: "17", title: "Value Notifications for specific criteria like PE Ratio", status: .planned)
 ]
 
 assert(Set(features.map(\.id)).count == features.count, "Duplicate IDs exist!")

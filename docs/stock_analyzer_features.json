@@ -75,6 +75,30 @@
     "status" : "Implemented",
     "id" : "13",
     "title" : "Stock Price Graph",
-    "isFinished" : true
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "14",
+    "title" : "Customize Criteria Order",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "15",
+    "title" : "Mark criteria as favorite and show on top of detail page",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "16",
+    "title" : "Price Notifications",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "17",
+    "title" : "Value Notifications for specific criteria like PE Ratio",
+    "isFinished" : false
   }
 ]
