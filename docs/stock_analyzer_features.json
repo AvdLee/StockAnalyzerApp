@@ -100,5 +100,53 @@
     "id" : "17",
     "title" : "Value Notifications for specific criteria like PE Ratio",
     "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "18",
+    "title" : "Stock ESG Score",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "19",
+    "title" : "Stock ESG Risk Ratings",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "20",
+    "title" : "Price Targets from Analysts",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "21",
+    "title" : "Stock Screener",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "22",
+    "title" : "Stock News",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "23",
+    "title" : "Stock Sentiment based on Social Media like Reddit, Yahoo, Twitter, and StockTwits",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "24",
+    "title" : "Stock Grades like Outperform, Buy, Sell",
+    "isFinished" : false
+  },
+  {
+    "status" : "Planned",
+    "id" : "25",
+    "title" : "Explore stocks via Earnings Surprises",
+    "isFinished" : false
   }
 ]

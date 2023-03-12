@@ -35,7 +35,15 @@ let features: [Feature] = [
     .init(id: "14", title: "Customize Criteria Order", status: .planned),
     .init(id: "15", title: "Mark criteria as favorite and show on top of detail page", status: .planned),
     .init(id: "16", title: "Price Notifications", status: .planned),
-    .init(id: "17", title: "Value Notifications for specific criteria like PE Ratio", status: .planned)
+    .init(id: "17", title: "Value Notifications for specific criteria like PE Ratio", status: .planned),
+    .init(id: "18", title: "Stock ESG Score", status: .planned),
+    .init(id: "19", title: "Stock ESG Risk Ratings", status: .planned),
+    .init(id: "20", title: "Price Targets from Analysts", status: .planned),
+    .init(id: "21", title: "Stock Screener", status: .planned),
+    .init(id: "22", title: "Stock News", status: .planned),
+    .init(id: "23", title: "Stock Sentiment based on Social Media like Reddit, Yahoo, Twitter, and StockTwits", status: .planned),
+    .init(id: "24", title: "Stock Grades like Outperform, Buy, Sell", status: .planned),
+    .init(id: "25", title: "Explore stocks via Earnings Surprises", status: .planned)
 ]
 
 assert(Set(features.map(\.id)).count == features.count, "Duplicate IDs exist!")
