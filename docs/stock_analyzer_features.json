@@ -18,7 +18,7 @@
     "isFinished" : false
   },
   {
-    "status" : "Planned",
+    "status" : "In Progress",
     "id" : "4",
     "title" : "Notification for New Earnings Report",
     "isFinished" : false
@@ -75,7 +75,7 @@
     "status" : "Implemented",
     "id" : "13",
     "title" : "Stock Price Graph",
-    "isFinished" : false
+    "isFinished" : true
   },
   {
     "status" : "Planned",
