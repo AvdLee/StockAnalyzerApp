@@ -18,10 +18,10 @@
     "isFinished" : false
   },
   {
-    "status" : "In Progress",
+    "status" : "Implemented",
     "id" : "4",
     "title" : "Notification for New Earnings Report",
-    "isFinished" : false
+    "isFinished" : true
   },
   {
     "status" : "Planned",
