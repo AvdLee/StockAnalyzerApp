@@ -36,10 +36,10 @@
     "isFinished" : false
   },
   {
-    "status" : "Planned",
+    "status" : "Implemented",
     "id" : "7",
     "title" : "Allow creating multiple lists besides the main watchlist",
-    "isFinished" : false
+    "isFinished" : true
   },
   {
     "status" : "Planned",

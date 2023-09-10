@@ -25,7 +25,7 @@ let features: [Feature] = [
     .init(id: "4", title: "Notification for New Earnings Report", status: .implemented, isFinished: true),
     .init(id: "5", title: "Price Notifications", status: .planned),
     .init(id: "6", title: "Show Related Stocks / Competition", status: .planned),
-    .init(id: "7", title: "Allow creating multiple lists besides the main watchlist", status: .planned),
+    .init(id: "7", title: "Allow creating multiple lists besides the main watchlist", status: .implemented, isFinished: true),
     .init(id: "8", title: "Allow comparing stocks side by side with their scores", status: .planned),
     .init(id: "9", title: "Debt/EBITDA Ratio", status: .planned),
     .init(id: "10", title: "Add Return on Investment Capital Ratio (ROIC)", status: .planned),
