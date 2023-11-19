@@ -1,8 +1,8 @@
 [
   {
     "status" : "Planned",
-    "id" : "1",
     "title" : "Watchlist Performance Widgets",
+    "id" : "1",
     "isFinished" : false
   },
   {
@@ -12,118 +12,118 @@
     "isFinished" : false
   },
   {
-    "status" : "Planned",
-    "id" : "3",
     "title" : "Mac App",
-    "isFinished" : false
+    "isFinished" : false,
+    "status" : "Planned",
+    "id" : "3"
   },
   {
-    "status" : "Implemented",
-    "id" : "4",
     "title" : "Notification for New Earnings Report",
-    "isFinished" : true
-  },
-  {
-    "status" : "Planned",
-    "id" : "5",
-    "title" : "Price Notifications",
-    "isFinished" : false
-  },
-  {
-    "status" : "Planned",
-    "id" : "6",
-    "title" : "Show Related Stocks \/ Competition",
-    "isFinished" : false
-  },
-  {
+    "isFinished" : true,
     "status" : "Implemented",
+    "id" : "4"
+  },
+  {
+    "title" : "Price Notifications",
+    "id" : "5",
+    "isFinished" : false,
+    "status" : "Planned"
+  },
+  {
+    "id" : "6",
+    "isFinished" : false,
+    "status" : "Planned",
+    "title" : "Show Related Stocks \/ Competition"
+  },
+  {
     "id" : "7",
+    "status" : "Implemented",
     "title" : "Allow creating multiple lists besides the main watchlist",
     "isFinished" : true
   },
   {
-    "status" : "Planned",
     "id" : "8",
     "title" : "Allow comparing stocks side by side with their scores",
-    "isFinished" : false
+    "isFinished" : false,
+    "status" : "Planned"
   },
   {
-    "status" : "Planned",
-    "id" : "9",
     "title" : "Debt\/EBITDA Ratio",
-    "isFinished" : false
+    "isFinished" : false,
+    "status" : "Planned",
+    "id" : "9"
   },
   {
     "status" : "Planned",
-    "id" : "10",
     "title" : "Add Return on Investment Capital Ratio (ROIC)",
+    "id" : "10",
     "isFinished" : false
   },
   {
     "status" : "Planned",
-    "id" : "11",
     "title" : "Allow selecting currency",
+    "id" : "11",
     "isFinished" : false
   },
   {
-    "status" : "Planned",
-    "id" : "12",
+    "isFinished" : false,
     "title" : "Watch App",
-    "isFinished" : false
+    "status" : "Planned",
+    "id" : "12"
   },
   {
     "status" : "Implemented",
-    "id" : "13",
     "title" : "Stock Price Graph",
+    "id" : "13",
     "isFinished" : true
   },
   {
     "status" : "Planned",
+    "isFinished" : false,
     "id" : "14",
-    "title" : "Customize Criteria Order",
-    "isFinished" : false
+    "title" : "Customize Criteria Order"
   },
   {
-    "status" : "Planned",
     "id" : "15",
-    "title" : "Mark criteria as favorite and show on top of detail page",
-    "isFinished" : false
+    "isFinished" : false,
+    "status" : "Planned",
+    "title" : "Mark criteria as favorite and show on top of detail page"
   },
   {
-    "status" : "Planned",
+    "isFinished" : false,
     "id" : "16",
     "title" : "Price Notifications",
-    "isFinished" : false
+    "status" : "Planned"
   },
   {
-    "status" : "Planned",
     "id" : "17",
+    "isFinished" : false,
     "title" : "Value Notifications for specific criteria like PE Ratio",
-    "isFinished" : false
+    "status" : "Planned"
   },
   {
     "status" : "Planned",
     "id" : "18",
-    "title" : "Stock ESG Score",
-    "isFinished" : false
+    "isFinished" : false,
+    "title" : "Stock ESG Score"
   },
   {
+    "isFinished" : false,
     "status" : "Planned",
     "id" : "19",
-    "title" : "Stock ESG Risk Ratings",
-    "isFinished" : false
+    "title" : "Stock ESG Risk Ratings"
   },
   {
-    "status" : "Planned",
+    "status" : "Implemented",
+    "isFinished" : true,
     "id" : "20",
-    "title" : "Price Targets from Analysts",
-    "isFinished" : false
+    "title" : "Price Targets from Analysts"
   },
   {
-    "status" : "Planned",
     "id" : "21",
-    "title" : "Stock Screener",
-    "isFinished" : false
+    "status" : "Planned",
+    "isFinished" : false,
+    "title" : "Stock Screener"
   },
   {
     "status" : "Planned",
@@ -132,21 +132,21 @@
     "isFinished" : false
   },
   {
+    "isFinished" : false,
     "status" : "Planned",
-    "id" : "23",
     "title" : "Stock Sentiment based on Social Media like Reddit, Yahoo, Twitter, and StockTwits",
-    "isFinished" : false
+    "id" : "23"
   },
   {
-    "status" : "Planned",
     "id" : "24",
+    "status" : "Planned",
     "title" : "Stock Grades like Outperform, Buy, Sell",
     "isFinished" : false
   },
   {
-    "status" : "Planned",
     "id" : "25",
+    "isFinished" : false,
     "title" : "Explore stocks via Earnings Surprises",
-    "isFinished" : false
+    "status" : "Planned"
   }
 ]

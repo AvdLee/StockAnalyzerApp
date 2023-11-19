@@ -38,7 +38,7 @@ let features: [Feature] = [
     .init(id: "17", title: "Value Notifications for specific criteria like PE Ratio", status: .planned),
     .init(id: "18", title: "Stock ESG Score", status: .planned),
     .init(id: "19", title: "Stock ESG Risk Ratings", status: .planned),
-    .init(id: "20", title: "Price Targets from Analysts", status: .planned),
+    .init(id: "20", title: "Price Targets from Analysts", status: .implemented, isFinished: true),
     .init(id: "21", title: "Stock Screener", status: .planned),
     .init(id: "22", title: "Stock News", status: .planned),
     .init(id: "23", title: "Stock Sentiment based on Social Media like Reddit, Yahoo, Twitter, and StockTwits", status: .planned),
