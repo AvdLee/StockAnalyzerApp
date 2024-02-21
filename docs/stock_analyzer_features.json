@@ -54,10 +54,10 @@
     "id" : "9"
   },
   {
-    "status" : "Planned",
+    "status" : "Implemented",
     "title" : "Add Return on Investment Capital Ratio (ROIC)",
     "id" : "10",
-    "isFinished" : false
+    "isFinished" : true
   },
   {
     "status" : "Planned",
